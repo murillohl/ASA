@@ -1,0 +1,5 @@
+######
+Aula sobre os métodos de acesso do HTTP
+GET, POST e PUT
+Arquivos app.py contendo as rotinas do Flask e a classe user.py contendo a classe user
+#####
